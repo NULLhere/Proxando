@@ -28,6 +28,20 @@ Before you ask me, proxychains's references are intentional(:<br>
 
 
 
+Compiling and POC:
+
+https://github.com/user-attachments/assets/883313d9-afee-48d2-ab85-b4f0826abb9f
+
+
+
+
+The configuration file is always proxychains.conf, but you can choose what socks proxy you want to use to forward your traffic, just adding an ID as prefix. For example:
+
+
+https://github.com/user-attachments/assets/cd996e70-2dc9-445c-a480-fe99df9f86c4
+
+
+
 
 
 
