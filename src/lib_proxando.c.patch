@@ -1,0 +1,19 @@
+--- libproxychains.c.orig	2025-05-11 21:37:00
++++ libproxychains.c	2025-05-11 21:37:00
+@@ -234,6 +234,16 @@
+ 	char *tmp = NULL;
+ 	int remote_dns_now = remote_dns;
+ 	int domain_len;
++	int reboot_closed_connection = 0;
++	
++	// Check for udp-reboot-closed-connection option
++	tmp = find_line(config_file, "udp-reboot-closed-connection", DOESNT_NEED_EQUAL_SIGN);
++	if(tmp) {
++		reboot_closed_connection = 1;
++		free(tmp);
++		PDEBUG("Option 'udp-reboot-closed-connection' enabled\n");
++	}
++	
+ 	// read the proxy list
+ 	count = 0;
+ 	do {

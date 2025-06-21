@@ -1,0 +1,10 @@
+--- core.c.orig	2025-05-11 21:37:30
++++ core.c	2025-05-11 21:37:30
+@@ -1250,7 +1250,6 @@
+                                              (struct sockaddr *)&target_addr,
+                                              target_len,
+                                              ns); // Mantenere il socket di controllo
+-            
+             if (relay_idx >= 0) {
+                 PDEBUG("Created UDP association for client socket %d using control socket %d\n", sock, ns);
+                 return SUCCESS;
