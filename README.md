@@ -9,7 +9,7 @@ This software is a replica of one of the most iconic and used tools of offensive
 In all these years of work, without proxychains I would not have been able to conduct several activities, but there were episodes instead in which I would have found useful features that the original author has not yet introduced
 <br>
 <br>
-Essentially, this is a UDP proxychains. The code is certainly a mess BUT it does its job! <br>
+Essentially, this is a TCP+UDP proxychains. The code is certainly a mess BUT it does its job! <br>
 On this occasion I also wanted to thank the entire community of pentesters and hackers! Thanks to your studies, researches, articles, posts, blogs, videos you made me grow. This software is a tribute to all of you, I hope you find it useful!:D<br>
 
 # ENCHANTMENTS
