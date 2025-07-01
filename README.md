@@ -6,11 +6,11 @@
 
 
 This software is a replica of one of the most iconic and used tools of offensive security: proxychains<br>
-In all these years of work, without proxychains I would not have been able to conduct several activities, but there were episodes instead in which I would have found useful features that the original author has not yet introduced
+Over the years, I wouldn't have been able to carry out several activities without ProxyChains. However, there were times when I would have found certain features useful—features that the original author has not yet introduced
 <br>
 <br>
-Essentially, this is a TCP+UDP proxychains. The code is certainly a mess BUT it does its job! <br>
-On this occasion I also wanted to thank the entire community of pentesters/ red teamers and hackers! Thanks to your studies, researches, articles, posts, blogs, videos you made me grow. This software is a tribute to all of you of the cybersecurity world, I hope you find it useful!:D<br>
+Essentially, this is a TCP + UDP proxyChains implementation. The code is certainly a mess BUT it gets the job done! <br>
+I also want to take this opportunity to thank the entire community of pentesters, red teamers, and hackers. Your studies, research, articles, posts, blogs, and videos have helped me grow. This software is a tribute to all of you in the cybersecurity world—I hope you find it useful!:D<br>
 
 # ENCHANTMENTS
 
@@ -66,12 +66,12 @@ The limitations are the same of the original one: this program works only on dyn
 - binaries statically compiled
 - direct syscalls ( mount, ntpdate, etc etc.. )
 
-I'm not planning to add support for that anytime soon, but I want to!<br>
-I'm just busy with something else now, but I think the more convenient way to intercept direct syscall is using ptrace() and that would require a lllllot of work, so stay tuned<br>
+I'm not planning to add support for those anytime soon, but I'would love to in the future!<br>
+I'm just busy with other things at the moment. I believe the most viable way to intercept direct syscalls would be through ptrace(), but that would require a looooot of work — so stay tuned!<br>
 
 
 
 # ABOUT ISSUES
 
-If you find issues please report them in the more detailed way you can, so I can reproduce them in my environment! Softwares involved, wireshark traffic, what proxy you are using, the scenario, etc etc.. <br>
-As I said, I don't know when ( and if ) I will be able to fix them! So feel free to make a pull request containing the fix, I will check it when I can(:<br>
+If you find any issues, please report them in as much detail as possible so I can try to reproduce them in my environment! Include things like: the software involved, Wireshark traffic captures, the proxy you are using, the scenario, and anything else that might help <br>
+As I mentioned earlier, I don't know when (or if) I will be able to fix them — so feel free to open a pull request with a fix, I will review it as soon as I can!(:<br>
