@@ -10,7 +10,7 @@ In all these years of work, without proxychains I would not have been able to co
 <br>
 <br>
 Essentially, this is a TCP+UDP proxychains. The code is certainly a mess BUT it does its job! <br>
-On this occasion I also wanted to thank the entire community of pentesters and hackers! Thanks to your studies, researches, articles, posts, blogs, videos you made me grow. This software is a tribute to all of you, I hope you find it useful!:D<br>
+On this occasion I also wanted to thank the entire community of pentesters and hackers! Thanks to your studies, researches, articles, posts, blogs, videos you made me grow. This software is a tribute to all of you of the cybersecurity world, I hope you find it useful!:D<br>
 
 # ENCHANTMENTS
 
