@@ -11,7 +11,7 @@ Over the years, I would not have been able to carry out several activities witho
 <br>
 <br>
 The code is certainly a mess BUT it gets the job done! <br>
-I also want to take this opportunity to thank the entire community of pentesters, red teamers, and hackers. Your studies, research, articles, posts, blogs, and videos have helped me grow. This software is a tribute to all of you in the cybersecurity world, I hope you find it useful!:D<br>
+I also want to take this opportunity to thank the entire community of pentesters, red teamers, and hackers. Your studies, research, articles, posts, blogs, tools, and videos have helped me grow. This software is a tribute to all of you in the cybersecurity world, I hope you find it useful!:D<br>
 
 # ENCHANTMENTS
 
