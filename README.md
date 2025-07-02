@@ -7,7 +7,7 @@
 
 This software is a replica of one of the most iconic and used tools of offensive security: proxychains<br>
 Essentially, this is a TCP + UDP proxyphains implementation <br>
-Over the years, I would not have been able to carry out several activities without ProxyChains. However, there were times when I would have found certain features useful —features that the original author has not yet introduced
+Over the years, I would not have been able to carry out several activities without proxychains. However, there were times when I would have found certain features useful — features that the original author has not yet introduced
 <br>
 <br>
 The code is certainly a mess BUT it gets the job done! <br>
