@@ -6,10 +6,11 @@
 
 
 This software is a replica of one of the most iconic and used tools of offensive security: proxychains<br>
+Essentially, this is a TCP + UDP proxyChains implementation <br>
 Over the years, I would not have been able to carry out several activities without ProxyChains. However, there were times when I would have found certain features useful—features that the original author has not yet introduced
 <br>
 <br>
-Essentially, this is a TCP + UDP proxyChains implementation. The code is certainly a mess BUT it gets the job done! <br>
+The code is certainly a mess BUT it gets the job done! <br>
 I also want to take this opportunity to thank the entire community of pentesters, red teamers, and hackers. Your studies, research, articles, posts, blogs, and videos have helped me grow. This software is a tribute to all of you in the cybersecurity world, I hope you find it useful!:D<br>
 
 # ENCHANTMENTS
